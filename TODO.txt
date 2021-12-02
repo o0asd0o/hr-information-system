@@ -1,0 +1,8 @@
+TODO:
+
+1. Test Leave and Appraisal controller (and division) - DONE
+2. create endpoints for summarized information of every tab 
+- additional leave computation should also be implemented
+
+3. create Calendar controller/endpoints
+4. create General controller (would cover the database stuff like backups and others)
